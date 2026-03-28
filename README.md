@@ -10,7 +10,7 @@ My work focuses on designing and implementing sustainable data infrastructure to
 ---
 ## 🔭 I’m currently working on
 
-* [E-Commerce Data Pipeline](https://github.com/Phileodontist/E-Commerce_Data_Pipeline): End-to-End data pipeline (AWS Glue, Step Functions, Redshift, DynamoDB, S3)
+* [E-Commerce Data Pipeline](https://github.com/Phileodontist/E-Commerce_Data_Pipeline): End-to-End data pipeline (AWS Glue, Lambda, Step Functions, Redshift, DynamoDB, S3)
 
 ---
 ## 🛠️ Skills & Expertise

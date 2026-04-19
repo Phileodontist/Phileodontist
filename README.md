@@ -2,7 +2,7 @@
 
 /ˈwɛl.kəm tu maɪ ˈɡɪt.hʌb/!
 
-I'm an aspiring Data Engineer with a background building data infrastructure within various research domains<br/>
+I'm an Data Engineer with a background building data infrastructure within various research domains<br/>
 (Biomedical, Internet/Network, and Ocean & Geological Sciences), with a focus in applying [F.A.I.R. principles](https://www.nature.com/articles/sdata201618).
 
 My work focuses on designing and implementing sustainable data infrastructure to support innovation by<br/> ensuring data is findable, accessible, interopable, and reusable.

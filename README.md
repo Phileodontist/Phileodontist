@@ -13,6 +13,15 @@ My work focuses on designing and implementing sustainable data infrastructure to
 * [E-Commerce Data Pipeline](https://github.com/Phileodontist/E-Commerce_Data_Pipeline): End-to-End data pipeline (AWS Glue, Lambda, Step Functions, Redshift, DynamoDB, S3)
 
 ---
+## 🗃️ Previous Projects
+
+* [Police Shootings Dashboard](https://github.com/Phileodontist/PoliceShootingsDashboard)<br/>
+A dashboard that allows one to view U.S. police shootings, unemployment, and demographics data in one centralized application
+* [Sparkify Airflow Data Pipeline](https://github.com/Phileodontist/Udacity/tree/main/Data-Engineering/AF-Project)<br/>
+An Airflow orchestrated pipeline that loads music data into a Redshift Data Warehouse, applying data quality checks
+
+
+---
 ## 🛠️ Skills & Expertise
 
 * **Project Management:** Scrum, Agile
